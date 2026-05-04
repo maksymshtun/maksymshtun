@@ -185,7 +185,7 @@ New challenges keep me energized, and I'm always ready to tackle them head-on.
 <br>
 </div>
 
-<h1 align="center">⚡ Github Stats</h1>
+<!-- <h1 align="center">⚡ Github Stats</h1>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mlasocki&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mlasocki&theme=algolia) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -194,7 +194,7 @@ New challenges keep me energized, and I'm always ready to tackle them head-on.
 <br/>
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20know,%20is%20to%20know%20that%20you%20know%20nothing.%20Nothing%20but%20the%20art%20of%20self-ignorance.&author=He%20who%20embraced%20his%20own%20ignorance" /> </p>
 
-<h1 align="center"><img src="https://komarev.com/ghpvc/?username=mlasocki" /></h1>
+<h1 align="center"><img src="https://komarev.com/ghpvc/?username=mlasocki" /></h1> -->
 
 
 
